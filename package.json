@@ -1,0 +1,19 @@
+{
+	"author": "Surendhar Senthil",
+	"name": "web-programming",
+	"version": "0.1.1",
+	"description": "learning",
+	"main": "index",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SurendharSSenthil/surendhar-149"
+	},
+	"keywords": [
+		"console",
+		"log"
+	],
+	"dependencies": {},
+	"engines": {
+		"node": "*"
+	}
+}

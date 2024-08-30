@@ -1,8 +1,8 @@
 {
 	"author": "Surendhar Senthil",
-	"name": "web-programming",
+	"name": "email-check",
 	"version": "0.1.1",
-	"description": "learning",
+	"description": "this package checks if your mail is valid or not",
 	"main": "index",
 	"repository": {
 		"type": "git",
